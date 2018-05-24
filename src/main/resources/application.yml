@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rseroter/pluralsight-spring-cloudconfig-wa-tolls 
+          uri: https://github.com/sreerampujari/spring-cloud-configserver-wa-tolls 
